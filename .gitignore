@@ -7,3 +7,10 @@ mini.mbox
 
 *.swp
 *.pyc
+
+# virtualenv
+env/
+
+# GeoIP databases
+GeoIP.dat.gz
+GeoLiteCity.dat.gz
