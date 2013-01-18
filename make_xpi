@@ -1,0 +1,9 @@
+#!/bin/bash
+
+XPI_NAME=thunderspy.xpi
+
+rm -f $XPI_NAME
+cd src
+zip -q -X -9r "../$XPI_NAME" .
+cd ..
+
