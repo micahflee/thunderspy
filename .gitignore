@@ -3,3 +3,7 @@ thunderspy.xpi
 # Test files
 noisebridge-discuss
 noisebridge-discuss.msf
+mini.mbox
+
+*.swp
+*.pyc
