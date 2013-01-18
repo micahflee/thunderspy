@@ -1,0 +1,3 @@
+content thunderspy chrome/content/
+
+overlay chrome://messenger/content/messenger.xul chrome://thunderspy/content/thunderspy.xul
