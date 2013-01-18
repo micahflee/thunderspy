@@ -7,7 +7,7 @@
         <em:name>ThunderSpy</em:name>
         <em:id>micahflee@riseup.net</em:id>
         <em:version>0.1</em:version>
-        <em:creator>Micah Lee</em:creator>
+        <em:creator>Micah Lee and Garrett Robinson</em:creator>
         <em:description>Email servers sometimes leak the sender's IP address. This makes it simpler to visualize these leaks over time.</em:description>
         <em:homepageURL>https://github.com/micahflee/thunderspy</em:homepageURL>
         <!-- Thunderbird -->
