@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<overlay id="thunderspyMsgHdrViewOverlay"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <script type="application/x-javascript" src="chrome://thunderspy/content/thunderspyMsgHdrViewOverlay.js"/>
+
+  <menupopup id="attachmentMenuList" onpopupshowing="ThunderSpy.hdrView.fillAttachmentListPopup(this);"/>
+
+  <popup id="emailAddressPopup">
+    <menuitem label="ThunderSpy" oncommand="ThunderSpy.hdrView.openSpyTab(document.popupNode);"/>
+  </popup>
+</overlay>
+
