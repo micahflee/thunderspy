@@ -1,3 +1,4 @@
 content thunderspy chrome/content/
 
 overlay chrome://messenger/content/msgHdrViewOverlay.xul chrome://thunderspy/content/thunderspyMsgHdrViewOverlay.xul
+
